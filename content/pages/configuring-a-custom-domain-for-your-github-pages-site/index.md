@@ -1,5 +1,5 @@
 ---
-title: Configuring a custom domain for your GitHub Pages site
+title: http://nareshdeshpandey.website3.me/
 intro: 'You can customize the domain name of your {% data variables.product.prodname_pages %} site.'
 redirect_from:
   - /articles/tips-for-configuring-an-a-record-with-your-dns-provider
